@@ -1,5 +1,5 @@
 # vectorator
-
+Forked to play around with the code
 ### Important Installation Instructions ###
 1. Update (May 22, 2019): I believe my issue with Bluehost has been resolved. So the program should work again WITHOUT having local copies of the .csv and .txt files. 
 
